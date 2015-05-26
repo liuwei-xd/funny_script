@@ -1,2 +1,2 @@
 # funny_script
-Some funny script.
+Some funny scripts.
